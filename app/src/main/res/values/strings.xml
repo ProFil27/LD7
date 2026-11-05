@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LD7</string>
+    <string name="app_title">Akumuliatoriaus sekimas</string>
+    <string name="switch_title">Sekti akumuliatorių</string>
+    <string name="switch_hint">Pranešti, kai įkrovimas žemas (≤ 20 %)</string>
+    <string name="level_format">%1$d %%</string>
+    <string name="level_unknown">– %</string>
+    <string name="status_disabled">Sekimas išjungtas</string>
+    <string name="status_ok">Akumuliatoriaus lygis normalus</string>
+    <string name="status_low">Akumuliatoriaus lygis žemas!</string>
+    <string name="status_charging">Kraunasi</string>
+    <string name="channel_name">Žemas akumuliatoriaus lygis</string>
+    <string name="notification_title">Žemas akumuliatoriaus lygis</string>
+    <string name="notification_text">Liko %1$d %%. Paspauskite, kad išjungtumėte sekimą.</string>
+</resources>
